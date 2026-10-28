@@ -12,7 +12,7 @@ Python version used: 3.12 | Operating system: Windows 11 | Date: 2026-10-27
 | 4 | https://a.b.c.d.e.example.invalid/path | Many hostname segments | Contains many hostname segments/subdomains. [Risk Score: 20/100 (LOW)] | PASS |
 | 5 | https://xn--example.invalid/ | Punycode-style hostname | Contains a punycode-style hostname. [Risk Score: 25/100 (LOW)] | PASS |
 
-## Bonus & Advanced Heuristic Checks
+## Advanced Heuristic Checks
 
 | Input | Actual result | Pass/Fail |
 |-------|---------------|-----------|
